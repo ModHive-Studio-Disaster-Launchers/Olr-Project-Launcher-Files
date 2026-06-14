@@ -1,4 +1,4 @@
-CLIENT_URL=https://github.com/ModHive-Studio-Disaster-Launchers/Disaster-Launcher-Files/releases/download/v1.0.0/game.zip
+CLIENT_URL=https://github.com/ModHive-Studio-Disaster-Launchers/Olr-Project-Launcher-Files/releases/download/2023/game.zip
 SERVER_URL=https://github.com/ModHive-Studio-Disaster-Launchers/Olr-Project-Launcher-Files/releases/download/2022/server.zip
 CLIENT_EXE=Sonicexe The Disaster 2D Remake Olr Project.exe
 SERVER_EXE=OlrServer.exe
